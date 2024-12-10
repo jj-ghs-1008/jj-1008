@@ -1,4 +1,3 @@
 added this line in master branch
-we are currently in development branch
-this is the file which contains the DB related code
+we are updating dev branch
 updating the file
